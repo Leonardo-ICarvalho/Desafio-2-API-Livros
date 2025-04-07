@@ -26,6 +26,7 @@ def home_page():
     return '<h2> Minha Pagina inicial'
     # descrever API ou colocar um indice/menu
 
+# commit4
 @app.route('/doar', methods=['POST'])
 def doar():
 
